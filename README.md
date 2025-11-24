@@ -1,4 +1,4 @@
-# Movie Download Bot
+# Media Download Bot
 
 A Telegram bot that searches for videos by code and forwards them to users. Features automatic indexing, manual indexing, and admin management interface.
 
@@ -41,7 +41,7 @@ A Telegram bot that searches for videos by code and forwards them to users. Feat
 ## Usage
 
 ### Regular Users
-- Send a movie code (e.g., `MOV123`) to search and receive the video
+- Send a media code (e.g., `MOV123`) to search and receive the video
 
 ### Admin
 - Access admin panel via `/start`
